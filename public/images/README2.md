@@ -3,7 +3,7 @@
 Все изображения можно заменить без изменения кода, если сохранить имена файлов.
 
 ## hero
-- `salon-main.jpg` — главное фото Абьюз Бьюти.
+- `[salon-main.jpg](https://github.com/NEK360/beta2/blob/f4632dfe01b3dae9d7bb56929bcc82a6a2e78209/salon-main.jpg.png)` — главное фото Абьюз Бьюти.
 
 ## services
 - `cascade-haircut.jpg` — Стрижка Каскад.
